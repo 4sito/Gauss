@@ -1,6 +1,6 @@
 # Gauss
 
-
+![gauss](gauss.png)
 
 This C program calculates the sum of all numbers before a given N number. 
 
